@@ -6,4 +6,5 @@
 
 # 已构建的镜像
 
-[DockerHub]([huyuanxin/polaris-server-with-config - Docker Image | Docker Hub](https://hub.docker.com/r/huyuanxin/polaris-server-with-config))
+[huyuanxin/polaris-server-with-config - Docker Image | Docker Hub](https://hub.docker.com/r/huyuanxin/polaris-server-with-config)
+

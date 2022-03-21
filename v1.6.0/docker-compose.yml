@@ -1,0 +1,11 @@
+version: "3"
+services:
+  polaris:
+    image: polarismesh/polaris-server:v1.6.0
+    container_name: polaris-server
+    restart: always
+    ports:
+      - "8090:8090"
+      - "8091:8091"
+    volumes:
+      - "./config/polaris-server.yaml:/root/polaris-server.yaml"

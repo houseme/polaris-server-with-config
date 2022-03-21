@@ -1,7 +1,7 @@
 version: "3"
 services:
   polaris:
-    image: polarismesh/polaris-server:latest
+    image: polarismesh/polaris-server:v1.3.2
     container_name: polaris-server
     restart: always
     ports:

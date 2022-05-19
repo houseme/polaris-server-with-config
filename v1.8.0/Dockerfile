@@ -1,4 +1,4 @@
-FROM polarismesh/polaris-server:latest
+FROM polarismesh/polaris-server:v1.8.0
 
 MAINTAINER houseme houseme@outlook.com
 
